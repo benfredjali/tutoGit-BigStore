@@ -1,0 +1,10 @@
+<div class="row">
+  {{total}}
+<div class="col-md-4 text-center col-sm-6 col-xs-6" *ngFor='let product of products'>
+    <img src={{product.image}} alt="" />
+    <div class="caption">
+  <app-item [p]='product' (onClickCount)="clickToCount($event)" (onClickCount)="onClickCount($event)"></app-item>
+</div>
+
+</div>
+</div>

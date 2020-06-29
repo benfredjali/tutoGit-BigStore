@@ -1,0 +1,41 @@
+1/ git init //*permet de installation la configuration de git 
+
+2/ git config --global user.name 'ali' /* ecrire le email de utilisteur
+
+3/ git add ali.html /* permet d'ajouter un fichier qur le quelle on va travailler
+
+4/ git status /* permet d'afficher tous les fichiers qui nous avons ajouté a cette souvgarde "branche"
+
+5/ git rm --cached ali.html /* permet d'annuler ou enlever le fichier ali.html de le branche
+
+6/ git add . /* permet d'ajouter toute les fichiers dans le branches
+
+7/ git rm --cached ali.html /* permet de enlever selement le fichier ali.html
+
+8/  git rm -r --cached e2e  /* permet d'annuler ou enlever le dossier e2e de le branche
+
+9/  git rm -r --cached . /* permet d'annuler ou enlever tout le fichier de branche
+
+10/ git add *.html *.css  /* permet d'ajouter tout le fichier .html et .css
+
+11/ git checkout -- . /* permet d'annuler la suppression d'un fichier
+
+12/ git commit /* pour initialiser une commit 
+
+13/ on mette i avec le clavier et nous écrivons un commentaire 
+14/ et apres on mette echap et :wq "writer and quit"
+
+15/ apres un commit et lors de changement on a trouvé un code changer
+
+16/ git status /* pour voir le code qui a changé
+
+18/ git add . /* on va sauvgarder le nouveau code
+
+17/ git commit -m "changement de code " /* on va ajouter une commit de nouveau code
+
+
+
+
+
+
+

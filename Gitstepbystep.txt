@@ -33,9 +33,19 @@
 
 17/ git commit -m "changement de code " /* on va ajouter une commit de nouveau code
 
+18/git commit -m 'ajout le fichier Git step by step' /* ajouter le nouveau fichier
 
+19/ git branch fichierjs  /*permet de creer un nouveau branche
 
+20/ git checkout fichierjs  /*pour changer la destination a mon nouvelle branche fichierjs 
 
+21/ git branch --list  /*permet d'afficher le nom de branch actuelle avec la liste des autres branches
 
+22/ git checkout master  /*permet de changer de le branche fichierjs vers le branche master
+
+23/ git merge fichierjs   /*permet de fusionner"merge" le deux branches
+
+24/ git remote add origin https://github.com/benfredjali/tutoGit-BigStore.git
+25/ git push -u origin master
 
 

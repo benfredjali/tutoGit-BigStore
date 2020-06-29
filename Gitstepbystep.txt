@@ -48,4 +48,6 @@
 24/ git remote add origin https://github.com/benfredjali/tutoGit-BigStore.git
 25/ git push -u origin master
 
+26/ git pull /* update
+
 
